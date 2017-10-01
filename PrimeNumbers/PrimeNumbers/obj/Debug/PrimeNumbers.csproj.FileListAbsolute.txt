@@ -1,0 +1,9 @@
+c:\users\ali\documents\visual studio 2017\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+c:\users\ali\documents\visual studio 2017\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+c:\users\ali\documents\visual studio 2017\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+c:\users\ali\documents\visual studio 2017\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2017\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.Form1.resources
+c:\users\ali\documents\visual studio 2017\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2017\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2017\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+c:\users\ali\documents\visual studio 2017\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
